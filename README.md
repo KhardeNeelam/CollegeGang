@@ -1,2 +1,3 @@
 # CollegeGang
-Understand the git hub 
+Understand the git hub and git
+Auther - Neelam
