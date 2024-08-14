@@ -1,3 +1,4 @@
 # CollegeGang
 Understand the git hub and git
-Auther - Neelam
+<br>
+Auther - <head>Neelam</head>
